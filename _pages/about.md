@@ -18,7 +18,7 @@ I received a master's degree in Information Processing (June 2019) from the Nati
 My undergraduate education was in Software Engineering at the National Institute of Applied Sciences and Technology, Tunisia.
 My graduation internship was under the supervision of <a href="https://umdearborn.edu/users/marouane">Prof. Marouane Kessentini</a> at the <a href="http://kessentini.net/ise-lab">ISE Group</a> at the <a href="https://umdearborn.edu/">University of Michigan - Dearborn</a>.
 
-My research interests involves using Machine Learning, Deep Learning and Natural Language Processing techniques in order to improve Software Engineering tasks and assist software.
+My research interests involves using Machine Learning, Deep Learning and Natural Language Processing techniques in order to improve Software Engineering tasks.
 I work on building intelligent systems to assist software stakeholders in their tasks in the different phases of the software development life cycle.
 
 
