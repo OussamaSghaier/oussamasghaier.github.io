@@ -10,9 +10,9 @@ redirect_from:
 
 Since January 2021, I am a PhD student in the <a href="https://geodes.iro.umontreal.ca/">Department of computer science and operations research</a>
 at the <a href="https://www.umontreal.ca/en/">University of Montreal</a>.
-I work with <a href="http://www.iro.umontreal.ca/~sahraouh/index.html">Prof. Houari Sahraoui</a> in the <a href="https://geodes.iro.umontreal.ca/">GEODES</a> Software Engineering Group.
+I work with <a href="https://diro.umontreal.ca/repertoire-departement/professeurs/professeur/in/in15076/sg/Houari%20Sahraoui/">Prof. Houari Sahraoui</a> in the <a href="https://geodes.iro.umontreal.ca/">GEODES</a> Software Engineering Group.
 
-I hold  a master's degree in Artificial Intelligence (January 2021) from the University of Montreal, under the supervision of <a href="http://www.iro.umontreal.ca/~sahraouh/index.html">Prof. Houari Sahraoui</a> in the <a href="https://geodes.iro.umontreal.ca/">GEODES</a> Software Engineering Group.
+I hold  a master's degree in Artificial Intelligence (January 2021) from the University of Montreal, under the supervision of <a href="https://diro.umontreal.ca/repertoire-departement/professeurs/professeur/in/in15076/sg/Houari%20Sahraoui/">Prof. Houari Sahraoui</a> in the <a href="https://geodes.iro.umontreal.ca/">GEODES</a> Software Engineering Group.
 One of our research projects was in collaboration with the National Bank of Canada that aims to improve its the pipelines and tasks of the Artificial Intelligence department using Machine Learning and Deep Learning techniques. 
 I received a master's degree in Information Processing (June 2019) from the National Engineering School of Tunis as a co-degree with the master's degree in Computer Science from Paris Descartes University, France.
 My undergraduate education was in Software Engineering at the National Institute of Applied Sciences and Technology, Tunisia.
