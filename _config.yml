@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Oussama BEN SGHAIER"
 title_separator          : "-"
 name                     : &name "Oussama BEN SGHAIER"
-description              : &description "I am a PhD student in the GEODES Group of the University of Montreal, Canada, with Prof. Houari Sahraoui."
+description              : &description "PhD student at University of Montreal, Canada."
 url                      : https://oussamasghaier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oussamasghaier/oussamasghaier.github.io"
@@ -80,14 +80,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Oussama BEN SGHAIER"
+  avatar           : "profile.jpg"
+  bio              : > 
+                    I am a PhD student in the 
+                    <a href="https://geodes.iro.umontreal.ca/">GEODES Group </a> 
+                    of the 
+                    <a href="https://www.umontreal.ca/en/"> University of Montreal</a>, 
+                    with 
+                    <a href="http://www.iro.umontreal.ca/~sahraouh/index.html">Prof. Houari Sahraoui.</a>
+  location         : "Montreal, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=CMbuoj0AAAAJ"
+  email            : "oussama.ben.sghaier@umontreal.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +102,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "OussamaSghaier"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2737-0952"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "OBSghaier"
   vine             :
   weibo            :
   xing             :
