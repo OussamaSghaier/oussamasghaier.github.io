@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-sac-mm-refactoring
 excerpt:
 date: 2021-10-01
-venue: 'SAM 2021: 13th System Analysis and Modelling Conference'
+venue: 'SAC 2022: The 37th ACM/SIGAPP Symposium On Applied Computing, 2022'
 paperurl: '/files/4-MM_Refactoring_SAC2022.pdf'
 citation: 'Ben Sghaier, Oussama, Houari Sahraoui, and Eugene Syriani . "Fighting evil is not enough when refactoring metamodels: promoting the good also matters." In The 37th ACM/SIGAPP Symposium On Applied Computing, 2022.'
 ---
